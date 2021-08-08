@@ -3,7 +3,7 @@
 ### Date created: June-2021
 ### url for dataset: https://www.kaggle.com/headsortails/covid19-tracking-germany
 
-### Brief descrition:
+### Brief description:
 ### This project is created during my SGUnited Skillfuture proegram for Associate Data Anaylst on June-2021.
 ### Title: Rise and fall of COVID-19 in Germany
 ### This Power BI project shows the number of COVID-19 daily cases in Germany based on data from the above Kaggle website.

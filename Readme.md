@@ -4,10 +4,10 @@
 ### url for dataset: https://www.kaggle.com/headsortails/covid19-tracking-germany
 
 ### Brief description:
-### This project is created during my SGUnited Skillfuture proegram for Associate Data Anaylst on June-2021.
+### This project is created during my SGUnited Skillfuture program for Associate Data Anaylst on June-2021.
 ### Title: Rise and fall of COVID-19 in Germany
 ### This Power BI project shows the number of COVID-19 daily cases in Germany based on data from the above Kaggle website.
-### Through observation, the website updates the latest information every 2 days. For my project, the date of the dataset date range between January-2020 and June-2021.
+### The website updates the dataset frequently. For my project, the date of the dataset date range between January-2020 and June-2021.
 ### I created 4 slides of dashboard.
 ### First dahboard shows the demographics as introduction of population of Germany with the country's map by adding each and every states' longitude and latitude. Bubbles are added on each state to indicate the population size in each state.
 ### On second dashboard, a same Germany map is created, but this time, it shows the number of death cases in each state. I also do a time lapse on daily basis using play axis visualisation on the daily death cases. A bar chart with age group is also plotted to show majority of COVID-19 cases falls on the elderly group.
